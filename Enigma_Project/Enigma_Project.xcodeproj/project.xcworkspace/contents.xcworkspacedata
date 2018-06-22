@@ -2,12 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../Enigma.swift">
+   </FileRef>
+   <FileRef
       location = "group:../EnigmaRotors.swift">
    </FileRef>
    <FileRef
-      location = "group:../../Enigma.swift">
-   </FileRef>
-   <FileRef
-      location = "self:Enigma_Project.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>

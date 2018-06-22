@@ -21,11 +21,11 @@ let strRotorV     = "VZBRGITYUPSDNHLXAWMJQOFECK"
 
 //The Following declared characters are the "Unstables" when the rotor is in the center of the machine
 
-let aCharRotorI   = ['Q']
-let aCharRotorII  = ['E']
-let aCharRotorIII = ['V']
-let aCharRotorIV  = ['J']
-let aCharRotorV   = ['Z']
+let aCharRotorI   = ["Q"]
+let aCharRotorII  = ["E"]
+let aCharRotorIII = ["V"]
+let aCharRotorIV  = ["J"]
+let aCharRotorV   = ["Z"]
 
 //Special Rotors of the Kriegsmarine - Normal Sized
 
@@ -33,7 +33,7 @@ let strRotorVI    = "JPGVOUMFYQBENHZRDKASXLICTW"
 let strRotorVII   = "NZJHGRCXMYSWBOUFAIVLPEKQDT"
 let strRotorVIII  = "FKQHTLXOCBJSPDZRAMEWNIUYGV"
 
-let aCharRotorVI2VIII = ['Z', 'M'] //These Rotors use the same points for stepping
+let aCharRotorVI2VIII = ["Z", "M"] //These Rotors use the same points for stepping
 
 //Special Rotors of the Kriegsmarine - Thin Sized
 let strRotorBeta  = "LEYJVCNIXWPBQMDRTAKZGFUHOS"
