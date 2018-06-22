@@ -6,11 +6,24 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		9FA590D220DD58E9009D9AC2 /* detalles_tecnicos_enigma.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = detalles_tecnicos_enigma.pdf; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		9FA590CA20DD51BA009D9AC2 = {
 			isa = PBXGroup;
 			children = (
+				9FA590D120DD58BB009D9AC2 /* Resources */,
 			);
+			sourceTree = "<group>";
+		};
+		9FA590D120DD58BB009D9AC2 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9FA590D220DD58E9009D9AC2 /* detalles_tecnicos_enigma.pdf */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

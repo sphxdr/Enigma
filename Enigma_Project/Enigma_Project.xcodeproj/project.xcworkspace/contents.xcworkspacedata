@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../EnigmaRotors.swift">
+   </FileRef>
+   <FileRef
       location = "group:../../Enigma.swift">
    </FileRef>
    <FileRef

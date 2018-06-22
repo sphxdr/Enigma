@@ -3,7 +3,7 @@
 //
 //
 //  Created by Hèctor Díaz Ramoneda on 12/4/18.
-//
+//  This file is the Core of the Machine, it defines the machines operational moves
 
 import Foundation
 
