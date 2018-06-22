@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		9F1A735720DD5FFD004BCB78 /* Enigma.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enigma.swift; sourceTree = "<group>"; };
 		9FA590D220DD58E9009D9AC2 /* detalles_tecnicos_enigma.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = detalles_tecnicos_enigma.pdf; sourceTree = "<group>"; };
 		9FA590D520DD5DEE009D9AC2 /* EnigmaRotors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnigmaRotors.swift; sourceTree = "<group>"; };
-		9FA590D620DD5E57009D9AC2 /* Enigma.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enigma.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		9FA590CA20DD51BA009D9AC2 = {
 			isa = PBXGroup;
 			children = (
-				9FA590D620DD5E57009D9AC2 /* Enigma.swift */,
+				9F1A735720DD5FFD004BCB78 /* Enigma.swift */,
 				9FA590D520DD5DEE009D9AC2 /* EnigmaRotors.swift */,
 				9FA590D120DD58BB009D9AC2 /* Resources */,
 			);
